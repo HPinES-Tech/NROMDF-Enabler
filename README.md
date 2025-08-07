@@ -19,3 +19,5 @@ NROMDF Enabler (Noble ROM Debloated Features Enabler) by Flashing ZIP file using
   + Home screen: Press on the home screen, select "Widget" > Now Brief > Now Brief (2x1 ratio) > select "Add"
   + Lock screen: If you're lucky, it should show up right away, if not, wait a few hours.
 - Software Update: Only display, not usable, but if there is an update, please do not update for the safety of the device.
+
+# Downloads
