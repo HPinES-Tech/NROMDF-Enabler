@@ -22,5 +22,5 @@ NROMDF Enabler (Noble ROM Debloated Features Enabler) by Flashing ZIP file using
 
 # Downloads
 - Github (Here): https://github.com/HPinES-Tech/NROMDF-Enabler/releases/tag/Release
-- Google Drive:
-- Mediafire: 
+- Google Drive: Soon
+- Mediafire: Soon
